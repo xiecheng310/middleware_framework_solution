@@ -1,9 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "middleware.redis.delay.consumers",
-      "type": "java.lang.Integer",
-      "description": "redis延迟队列消费者数量."
-    }
-  ]
-}
